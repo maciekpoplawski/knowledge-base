@@ -30,3 +30,6 @@ Training your own LORA
 - https://www.youtube.com/@NerdyRodent
 - https://www.youtube.com/@AllAboutAI
 - https://www.youtube.com/@DrAlanDThompson
+
+## Thing's that im unable to squeeze into presentation but are UBER cool:
+- https://github.com/nomic-ai/gpt4all - The hotest shit at the moment! Im dying to properly try it out!
