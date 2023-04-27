@@ -4,7 +4,8 @@ This repository contains a collection of valuable knowledge for anyone who wants
 ## Chatbots
 1. OpenAI's API introduction can be found at <https://platform.openai.com/docs/introduction>
 2. **A Python-based chatbot framework can be found at <https://python.langchain.com/en/latest/index.html> - THIS is the most valuable link in this repo.**
-3. Embedding storage/searching options include:
+    - https://youtu.be/q-HNphrWsDE - superb explanation of tools and agents
+4. Embedding storage/searching options include:
     - Paid/Simple: <https://www.pinecone.io/>
     - Free/Open Source/Little Advanced: <https://milvus.io/>
 
@@ -26,10 +27,12 @@ Training your own LORA
 - https://www.youtube.com/watch?v=HUPcr5njxkM&t=1319s&ab_channel=PromptMuse -> This settings work's best, 60% of the Time, It Works Every Time!
 
 ## Best youtube channels in the world - I learned like everything from them:
+- https://www.youtube.com/@promptmuse - This woman should be crowned after Queen Elizabeth
 - https://www.youtube.com/@Aitrepreneur
 - https://www.youtube.com/@NerdyRodent
 - https://www.youtube.com/@AllAboutAI
 - https://www.youtube.com/@DrAlanDThompson
+- https://www.youtube.com/@jamesbriggs
 
 ## Thing's that im unable to squeeze into presentation but are UBER cool:
 - https://github.com/nomic-ai/gpt4all - The hotest shit at the moment! Im dying to properly try it out!
